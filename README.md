@@ -119,8 +119,8 @@ Invitación matrimonio 1
 
 <section>
   <div class="card">
-    <h2>Nuestra Historia</h2>
-    <p>Un pequeño texto romántico sobre ustedes...</p>
+    <h2>Sobre nosotros</h2>
+    <p>Nuestro amor es como una comedia romántica llena de locuras; reímos, jugamos y, a veces, tropezamos. Pero, en cada tropiezo, estamos completamente seguros de que no hay nadie más en este mundo con quien deseemos compartir toda nuestra vida</p>
   </div>
 </section>
 
@@ -138,7 +138,7 @@ Invitación matrimonio 1
 <section>
   <div class="card">
     <h2>Ubicación</h2>
-    <iframe src="https://www.google.com/maps?q=hotel+wedding+location&output=embed"></iframe>
+    <iframe src="https://maps.app.goo.gl/s9PcAQycPFqrjEFH7"></iframe>
   </div>
 </section>
 
@@ -163,7 +163,7 @@ Invitación matrimonio 1
 
 <script>
   // Cuenta regresiva
-  const targetDate = new Date("March 20, 2027 20:00:00").getTime();
+  const targetDate = new Date("november 28, 2026 18:00:00").getTime();
 
   setInterval(() => {
     const now = new Date().getTime();
