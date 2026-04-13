@@ -111,9 +111,9 @@ Invitación matrimonio 1
 <body>
 
 <header>
-  <h1>Juan & María</h1>
-  <p>Nos casamos</p>
-  <p>20 de Marzo 2027 · 20:00 hrs</p>
+  <h1>Paula & Gerardo</h1>
+  <p>Bienvenidos a compartir con nosotros este hermoso momento</p>
+  <p>28 de noviembre 2026 · 18:00 hrs</p>
   <div class="countdown" id="countdown"></div>
 </header>
 
